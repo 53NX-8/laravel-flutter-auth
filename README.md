@@ -36,7 +36,7 @@ This repository provides a foundation for building mobile applications with Flut
 1. **Clone the repository:**
 
    ```bash
-   git clone https://your-github-repo-url.git
+   git clone https://github.com/53NX-8/laravel-flutter-auth.git
 
 2. **Navigate to the Flutter directory:**
 
